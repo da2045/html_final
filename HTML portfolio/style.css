@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    
+    background-image: url("https://www.afisha.uz/uploads/media/2022/10/03d26dee7e71b6d4263ab3b935aadf4e_l.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    }
+.a{
+    border:2px solid orange;
+    width: 700px;
+    height: 500px;
+    background: orange;
+}
+.conteiner{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
